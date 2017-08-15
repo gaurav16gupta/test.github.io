@@ -29,17 +29,19 @@ a:hover {
 
 .header h1 {
   position: relative;
+  font-weight: normal;
   font-size: 2em;
   font-family: 'Sans-Serif';
-  top: 18px;
+  top: 16px;
   left: 10px;
 }
 .header h2 {
   position: relative;
-  font-family:'Helvetica'
+  font-weight: normal;
+  font-family:'Sans-Serif'
   font-size: 1em;
   color: gray;
-  top: 24px;
+  top: 20px;
   left: 10px;
 }
 
@@ -48,7 +50,8 @@ h1 {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
 }
 p {
-    font-size: 1.5em;
+    font-size: 1em;
+    font-family:'Sans-Serif'
     line-height: 1.4em;
     color: #333;
 }
