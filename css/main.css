@@ -44,18 +44,20 @@ ul.posts li {
 
 .header img {
   float: left;
-  width: 100px;
-  height: 120px;
+  width: 70px;
+  height: 85px;
   background: #555;
 }
 
 .header h1 {
   position: relative;
-  font-size: 2em;
-  font-family:'Helvetica', 'Arial', 'Sans-Serif';
+  font-family: 'Sans-Serif';
+  top: 18px;
+  left: 10px;
 }
 .header h2 {
   position: relative;
-  font-size: 1em;
-  font-family:'Helvetica', 'Arial', 'Sans-Serif';
+  color: gray;
+  top: 24px;
+  left: 10px;
 }
