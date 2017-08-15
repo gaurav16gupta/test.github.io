@@ -41,7 +41,7 @@ a:hover {
   font-family:'Sans-Serif'
   font-size: 1em;
   color: gray;
-  top: 20px;
+  top: 2px;
   left: 10px;
 }
 
@@ -52,7 +52,7 @@ h1 {
 p {
     font-size: 1em;
     font-family:'Sans-Serif'
-    line-height: 1.4em;
+    line-height: 4.4em;
     color: #333;
 }
 footer {
