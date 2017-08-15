@@ -1,2 +1,4 @@
 name: Gaurav Gupta
 markdown: kramdown
+
+theme: jekyll-theme-minimal
